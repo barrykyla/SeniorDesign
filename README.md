@@ -1,24 +1,20 @@
 # SeniorDesign
 The Birds and the Bees
 ***
-For this project I was inspired by my previous works with triangulation and how triangle could interact in a space. I decided
-that I had wanted to do some work with cacti or succulents, but other than that no clear plan was in sight. I looked into many
-different ways to go about solving these seemingly unanswerable questions. When the inverting of my contour shapes and 
-triangles had finally meshed it was done, and I could see the end. I decided it was time to take the photos and edit them in 
-photoshop, so this project would be authentically mine. 
+You made it. Here in this repository I go indepth into my process for creating this project. It was not easy and did not start out as what it has now become. Read below to find out its origins and to find out more about why this project means so much to me. Don't forget to download the extension yourself to try out on your own browser!
 
-There were many challenges that faced me during this final and at times I honestly felt like it was not going to get done. I
-did not anticipate for this project to be as difficult as it was,but am happy for the challenge. 
-
-# Inspiration Image:
+# Inspiration: Where it all began:
 ***
-[Inspiration Image](https://www.instagram.com/p/BdVmDFQnr0z/?taken-by=auto_focuss)
+Going into senior design I knew that I would need to come up with a project that was not only going to be visually exciting and interesting but something that was also of strong importance to myself. After some deep soul searching, I came to the realization of how much we are influenced by our everyday algorithm. They are literally everywhere and there is no escaping them. It made me wonder how much data is tracked on us, are there biases in these very mechanical like intangible ideas, and what exactly makes these ideas into a reality that is influencing our social culture every day? With these questions in mind I went searching and I learned more about big data and algorithms than I could have even imagined. 
+
+Algorithms are man-made and they do have biases within, how impactful where these biases? No one could really guess because each algorithm is made differently by different people or companies so there is no blanket statement in regard to that. What I did find intriguing was how little and vague knowledge the general public had. I could not believe that most people did not even realize that these inhuman things were doing incredibly crazy influences on our very human interactions.
+ 
+ 
+ TO BE CONTINUED...
 
 
 
 # Final Outcomes:
 ***
-[Final 1](https://www.instagram.com/p/BigFWZXAEtM/?taken-by=auto_focuss)
 
-[Final 2](https://www.instagram.com/p/BigFZ8wAltP/?taken-by=auto_focuss)
 
