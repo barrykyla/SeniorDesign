@@ -14,7 +14,12 @@ Algorithms are man-made and they do have biases within, how impactful where thes
 
 
 
-# Final Outcomes:
+# How to Download
 ***
+1. Download this repository
+2. Uncompress the zip file
+3. type in chrome://extensions/
+4. Press the "Load Unpacked" button and click the uncompressed zip file that was downloaded
+5. It should appear on the upper right hand corner of your web browser and all you need to do is click and it will be up and running!
 
 
