@@ -1,0 +1,36 @@
+{
+    "name": "Populating with Cirles",
+    "description": "Proof of Concept",
+    "version": "1.0",
+ 
+  
+
+    "browser_action": {
+        "default_title": "Covid-Algorithm",
+        "default_icon": "beccabee.png"
+    },     
+
+    
+    "permissions": [
+		"tabs",
+		"notifications",
+		"<all_urls>"
+	],
+
+
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+    },
+
+    "content_scripts": [{
+        "matches": [ "<all_urls>" ],
+        "css": ["style.css"],
+        "js": [ "jquery-3.2.1.min.js" ],
+        "web_accessible_resources": ["images/*.png"]
+	}],
+
+    "manifest_version": 2
+
+
+}
