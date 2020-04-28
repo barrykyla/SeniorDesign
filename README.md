@@ -1,5 +1,4 @@
-# SeniorDesign
-The Birds and the Bees
+# The Birds and the Bees
 ***
 You made it. Here in this repository I go indepth into my process for creating this project. It was not easy and did not start out as what it has now become. Read below to find out its origins and to find out more about why this project means so much to me. Don't forget to download the extension yourself to try out on your own browser!
 
