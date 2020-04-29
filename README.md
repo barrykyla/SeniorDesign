@@ -9,15 +9,13 @@ Going into senior design I knew that I would need to come up with a project that
 Algorithms are man-made and they do have biases within, how impactful where these biases? No one could really guess because each algorithm is made differently by different people or companies so there is no blanket statement in regard to that. What I did find intriguing was how little and vague knowledge the general public had. I could not believe that most people did not even realize that these inhuman things were doing incredibly crazy influences on our very human interactions.
  
  
- TO BE CONTINUED...
 
 
-
-# How to Download
+# How to Install
 ***
 1. Download this repository
 2. Uncompress the zip file
-3. type in chrome://extensions/
+3. Type in chrome://extensions/
 4. Press the "Load Unpacked" button and click the uncompressed zip file that was downloaded
 5. It should appear on the upper right hand corner of your web browser and all you need to do is click and it will be up and running!
 
